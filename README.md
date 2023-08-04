@@ -7,4 +7,8 @@ Guide to using urban sprawl:
 3. Watch humanity grow
 4. press x to destroy all cities and watch humanity revert to the dark ages (optional)
 
-<img width="355" alt="Screenshot 2023-08-04 164647" src="https://github.com/Timmylu414/Ubran-Sprawl/assets/75452456/d5cbece9-3094-47f8-9447-33b342786bde">
+# Screenshots
+<img width="355" alt="Screenshot 2023-08-04 164647" src="https://github.com/Timmylu414/Ubran-Sprawl/assets/75452456/c929e373-8bcd-4301-a26e-f40eccb9e181">
+<img width="326" alt="image" src="https://github.com/Timmylu414/Ubran-Sprawl/assets/75452456/cf9718a3-05b9-46ac-bf17-bfb4b6f21190">
+<img width="330" alt="Screenshot 2023-08-04 164915" src="https://github.com/Timmylu414/Ubran-Sprawl/assets/75452456/9b58613e-48ec-47f6-9f3b-56ea592773ea">
+<img width="328" alt="Screenshot 2023-08-04 164943" src="https://github.com/Timmylu414/Ubran-Sprawl/assets/75452456/264b2108-3395-4c88-980f-953ed2d7273d">
