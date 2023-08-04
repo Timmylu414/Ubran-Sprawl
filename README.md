@@ -9,7 +9,6 @@ Guide to using urban sprawl:
 
 # Screenshots
 <img width="355" alt="Screenshot 2023-08-04 164647" src="https://github.com/Timmylu414/Ubran-Sprawl/assets/75452456/c929e373-8bcd-4301-a26e-f40eccb9e181">
-<img width="326" alt="image" src="https://github.com/Timmylu414/Ubran-Sprawl/assets/75452456/cf9718a3-05b9-46ac-bf17-bfb4b6f21190">
 <img width="330" alt="Screenshot 2023-08-04 164915" src="https://github.com/Timmylu414/Ubran-Sprawl/assets/75452456/9b58613e-48ec-47f6-9f3b-56ea592773ea">
 <img width="592" alt="image" src="https://github.com/Timmylu414/Ubran-Sprawl/assets/75452456/c3414701-d433-4089-b4d4-44c850f3cef1">
 
